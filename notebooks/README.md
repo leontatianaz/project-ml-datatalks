@@ -5,7 +5,7 @@ This project uses the **FER-2013 (Facial Expression Recognition 2013)** dataset 
 
 The dataset contains grayscale facial images labeled with **7 emotion categories**:
 > `Angry`, `Disgust`, `Fear`, `Happy`, `Sad`, `Surprise`, and `Neutral`.
----
+
 
 ## Source and License
 - **Source:** [Kaggle – FER-2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)  
@@ -14,7 +14,7 @@ The dataset contains grayscale facial images labeled with **7 emotion categories
 
 Please review the dataset license on Kaggle before using it for commercial projects.
 
----
+
 
 ## Download Instructions (Kaggle API)
 
